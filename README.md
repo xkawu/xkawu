@@ -1,2 +1,5 @@
-## Languages I use / want to use
-<a href="https://fr.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+## Languages I use
+<a href="https://fr.wikipedia.org/wiki/JavaScript"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/imgs/Javascript%20Logo.png"></a>
+
+## Softwares
+<a href="https://code.visualstudio.com/"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/imgs/Javascript%20Logo.png"></a>

@@ -11,5 +11,5 @@
 
 ## 📊 • Stats
 <div align="center" width="50">
-	<img src="https://profile-counter.glitch.me/name/count.svg">
+	<img src="https://profile-counter.glitch.me/levraiKawu/count.svg">
 </div>

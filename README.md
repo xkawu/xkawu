@@ -2,12 +2,13 @@
 
 ## ⌨ • Languages
 <div>
-	<a title="Javascript" href="https://fr.wikipedia.org/wiki/JavaScript"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Javascript%20Logo.png"></a>
-	<a title="Python" href="https://fr.wikipedia.org/wiki/Python"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/Python.png"></a>
+	<a title="Javascript" href="https://wikipedia.org/wiki/JavaScript"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Javascript%20Logo.png"></a>
+	<a title="Python" href="https://wikipedia.org/wiki/Python"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/Python.png"></a>
 </div>
 
 ## 🖥 • Softwares
 <a title="Visual Studio Code" href="https://code.visualstudio.com/"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Visual%20Studio%20Code.png"></a>
+<a title="Vmware" href="https://www.vmware.com/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/Vmware.png"></a>
 
 ## 📊 • Stats
 <div align="center" width="50">

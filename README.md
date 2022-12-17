@@ -9,6 +9,7 @@
 ## 🖥 • Softwares
 <a title="Visual Studio Code" href="https://code.visualstudio.com/"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Visual%20Studio%20Code.png"></a>
 <a title="Vmware" href="https://www.vmware.com/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/Vmware.png"></a>
+<a title="WinSCP" href="https://winscp.net/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/WinSCP.png"></a>
 
 ## 📊 • Stats
 <div align="center" width="50">

@@ -2,7 +2,7 @@
 
 ## ⌨ • Languages
 <div>
-	<a title="Javascript" href="https://wikipedia.org/wiki/JavaScript"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Javascript%20Logo.png"></a>
+	<a title="Javascript" href="https://wikipedia.org/wiki/JavaScript"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Javascript.png"></a>
 	<a title="Python" href="https://wikipedia.org/wiki/Python"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/Python.png"></a>
 </div>
 

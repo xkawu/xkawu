@@ -1,4 +1,10 @@
-<img width="1000" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/banner.gif">
+<h1>Hi 👋, I'm Kawu!</h1>
+<p>
+I'm a dev who's passionate about cyber-security and stuff.
+<br>
+<br>
+Discovering new things like languages or cool things is what I really love 🗿.
+</p>
 
 ## ⌨ • Languages
 <a title="Javascript" href="https://wikipedia.org/wiki/JavaScript"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Javascript.png"></a>

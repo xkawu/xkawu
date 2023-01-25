@@ -14,6 +14,7 @@
 <a title="DateFNS" href="https://date-fns.org/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/DateFNS.png"></a>
 <a title="Discord.JS" href="https://discord.js.org/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/DiscordJS.png"></a>
 <a title="Chart.JS" href="https://www.chartjs.org/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/ChartJS.png"></a>
+<a title="Socket.io" href="https://socket.io/"><img width="30" src="https://raw.githubusercontent.com/LeVraiKawu/LeVraiKawu/main/src/images/Socket.io.png"></a>
 
 ## 🖥 • Softwares
 <a title="Visual Studio Code" href="https://code.visualstudio.com/"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Visual%20Studio%20Code.png"></a>

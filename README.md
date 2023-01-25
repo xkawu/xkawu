@@ -3,6 +3,7 @@
 ## ⌨ • Languages
 <a title="Javascript" href="https://wikipedia.org/wiki/JavaScript"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Javascript.png"></a>
 <a title="Python" href="https://wikipedia.org/wiki/Python"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/Python.png"></a>
+<a title="Rust" href="https://fr.wikipedia.org/wiki/Rust_(langage)"><img width="30" src="https://raw.githubusercontent.com/LeVraiKawu/LeVraiKawu/main/src/images/Rust.png"></a>
 
 ## 📦 • Frameworks & libraries
 <a title="NodeJS" href="https://nodejs.org/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/NodeJS.png"></a>

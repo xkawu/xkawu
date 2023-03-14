@@ -28,8 +28,8 @@ Discovering new things like languages or cool things is what I really love 🗿.
 <a title="pnpm" href="https://pnpm.io/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/pnpm.png"></a>
 
 ## 🖥 • Websites
-<a title="A pretty good doc website" href="https://devdocs.io"><img width="30" src="https://www.google.com/s2/favicons?domain=devdocs.io&sz=128"/></a>
-<a title="Good Dev Forum" href="https://dev.to"><img width="30" src="https://www.google.com/s2/favicons?domain=dev.to&sz=128"/></a>
+<a title="Doc Website" href="https://devdocs.io"><img width="30" src="https://www.google.com/s2/favicons?domain=devdocs.io&sz=128"/></a>
+<a title="Dev Forum" href="https://dev.to"><img width="30" src="https://www.google.com/s2/favicons?domain=dev.to&sz=128"/></a>
 <a title="Emoji key for Contribution Types" href="https://allcontributors.org/docs/en/emoji-key"><img width="30" src="https://www.google.com/s2/favicons?domain=allcontributors.org&sz=128"/></a>
 
 

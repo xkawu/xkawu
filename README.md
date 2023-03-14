@@ -29,7 +29,7 @@ Discovering new things like languages or cool things is what I really love 🗿.
 
 ## 🖥 • Websites
 <a title="A pretty good doc website" href="https://devdocs.io"><img width="30" src="https://www.google.com/s2/favicons?domain=devdocs.io&sz=30"/></a>
-<a title="Good Dev Forum" href="https://dev.to"><img width="30" src="https://www.google.com/s2/favicons?domain=dev.to&sz=30"/></a>
+<a title="Good Dev Forum" href="https://dev.to"><img width="30" src="https://www.google.com/s2/favicons?domain=dev.to&sz=128"/></a>
 
 ## 💾 • Softwares
 <a title="Visual Studio Code" href="https://code.visualstudio.com/"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Visual%20Studio%20Code.png"></a>

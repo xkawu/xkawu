@@ -8,7 +8,9 @@ Discovering new things like languages or cool things is what I really love 🗿.
 
 ## 🏆 • Languages [ACQUIRED]
 <a title="Javascript" href="https://wikipedia.org/wiki/JavaScript"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Javascript.png"></a>
+
 ## ☕ • Languages [IN LEARNING]
+<a title="Typescript" href="https://fr.wikipedia.org/wiki/TypeScript"><img width="30" src="https://github.com/xkawu/xkawu/blob/main/src/images/Typescript.png"></a>
 <p>typescript (image soon was lazy on phone)</p>
 <a title="Python" href="https://wikipedia.org/wiki/Python"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/Python.png"></a>
 <a title="Rust" href="https://fr.wikipedia.org/wiki/Rust_(langage)"><img width="30" src="https://raw.githubusercontent.com/LeVraiKawu/LeVraiKawu/main/src/images/Rust.png"></a>

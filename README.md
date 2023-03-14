@@ -28,6 +28,7 @@ Discovering new things like languages or cool things is what I really love 🗿.
 <a title="pnpm" href="https://pnpm.io/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/pnpm.png"></a>
 
 ## 🖥 • Websites
+<img src="https://www.google.com/s2/favicons?domain=devdocs.io&sz=10"/>
 
 ## 💾 • Softwares
 <a title="Visual Studio Code" href="https://code.visualstudio.com/"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Visual%20Studio%20Code.png"></a>

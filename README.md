@@ -53,7 +53,11 @@ Discovering new things like languages or cool things is what I really love 🗿.
 	<a title="CyberGhost" href="https://www.cyberghostvpn.com/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/CyberGhost.png"></a>
 </details>
 
-## 🎳 • Stuff
+## 🎈 • Stats
 <div align="center" width="50">
+	<img src="https://streak-stats.demolab.com/?user=xKawu&hide_border=true&background=323232&border=323232&stroke=626262&ring=27ae68&fire=27ae60&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=b2b2b2">
+</div>
+<br>
+<div align="center">
 	<img src="https://profile-counter.glitch.me/levraiKawu/count.svg">
 </div>

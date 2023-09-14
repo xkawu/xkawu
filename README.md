@@ -1,6 +1,6 @@
 <a href="https://github.com/xkawu"><img src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/banner.png"></a>
 
-<a href="https://github.com/xkawu"><img src="https://lanyard.cnrad.dev/api/445718215138607114"></a>
+<!--- idk wat to type her  -->
 
 ## ⌨ • What do I use?
 <details>
@@ -47,11 +47,14 @@
 	<a title="CyberGhost" href="https://www.cyberghostvpn.com/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/CyberGhost.png"></a>
 </details>
 
+## 🪝 • Discord
+<a href="https://github.com/xkawu"><img src="https://lanyard.cnrad.dev/api/445718215138607114"></a>
+
 ## 🎈 • Stats
 <div align="center" width="50">
-	<img src="https://streak-stats.demolab.com/?user=xKawu&hide_border=true&background=323232&border=323232&stroke=626262&ring=27ae68&fire=27ae60&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=b2b2b2">
+	<a href="https://github.com/xkawu"><img src="https://streak-stats.demolab.com/?user=xKawu&hide_border=true&background=323232&border=323232&stroke=626262&ring=27ae68&fire=27ae60&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=b2b2b2"></a>
 </div>
 <br>
 <div align="center">
-	<img src="https://profile-counter.glitch.me/levraiKawu/count.svg">
+	<a href="https://github.com/xkawu"><img src="https://profile-counter.glitch.me/levraiKawu/count.svg"></a>
 </div>

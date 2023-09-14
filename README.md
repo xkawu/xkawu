@@ -47,7 +47,7 @@
 	<a title="CyberGhost" href="https://www.cyberghostvpn.com/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/CyberGhost.png"></a>
 </details>
 
-## 🪝 • Discord
+## 🪝 • Widgets
 <a href="https://github.com/xkawu"><img src="https://lanyard.cnrad.dev/api/445718215138607114"></a>
 
 ## 🎈 • Stats

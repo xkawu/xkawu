@@ -1,6 +1,6 @@
-# Hi 👋, I'm Kawu!
+<a href="/xkawu"><img src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/banner.png"></a>
 
-<img src="https://lanyard.cnrad.dev/api/445718215138607114">
+<a href="/xkawu"><img src="https://lanyard.cnrad.dev/api/445718215138607114"></a>
 
 ## ⌨ • What do I use?
 <details>

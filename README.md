@@ -1,6 +1,6 @@
 <a href="https://github.com/xkawu"><img src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/banner.png"></a>
 
-<a href="[/xkawu](https://github.com/xkawu)"><img src="https://lanyard.cnrad.dev/api/445718215138607114"></a>
+<a href="https://github.com/xkawu"><img src="https://lanyard.cnrad.dev/api/445718215138607114"></a>
 
 ## ⌨ • What do I use?
 <details>

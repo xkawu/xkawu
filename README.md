@@ -1,10 +1,4 @@
 # Hi 👋, I'm Kawu!
-<p>
-I'm a dev who's passionate about cyber-security and stuff.
-<br>
-<br>
-Discovering new things like languages or cool things is what I really love 🗿.
-</p>
 
 <img src="https://lanyard.cnrad.dev/api/445718215138607114">
 

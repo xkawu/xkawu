@@ -51,10 +51,6 @@
 <a href="https://github.com/xkawu"><img src="https://lanyard.cnrad.dev/api/445718215138607114"></a>
 
 ## 🎈 • Stats
-<div align="center" width="50">
-	<a href="https://github.com/xkawu"><img src="https://streak-stats.demolab.com/?user=xKawu&hide_border=true&background=323232&border=323232&stroke=626262&ring=27ae68&fire=27ae60&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=b2b2b2"></a>
-</div>
-<br>
 <div align="center">
 	<a href="https://github.com/xkawu"><img src="https://profile-counter.glitch.me/levraiKawu/count.svg"></a>
 </div>

@@ -11,7 +11,6 @@
 <details>
 	<summary>☕ • Languages [IN LEARNING]</summary>
 	<a title="Typescript" href="https://www.typescriptlang.org/"><img width="30" src="https://github.com/xkawu/xkawu/blob/main/src/images/Typescript.png"></a>
-	<a title="Python" href="https://www.python.org/"><img width="30" src="https://raw.githubusercontent.com/levraiKawu/levraiKawu/main/src/images/Python.png"></a>
 	<a title="Rust" href="https://www.rust-lang.org/"><img width="30" src="https://raw.githubusercontent.com/LeVraiKawu/LeVraiKawu/main/src/images/Rust.png"></a>
 </details>
 

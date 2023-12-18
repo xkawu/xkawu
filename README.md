@@ -6,11 +6,11 @@
 <details>
 	<summary>🏆 • Languages [ACQUIRED]</summary>
 	<a title="Javascript" href="https://devdocs.io/javascript/"><img width="30" src="https://raw.githubusercontent.com/Kawuuu/kawuuu/main/src/images/Javascript.png"></a>
+	<a title="Typescript" href="https://www.typescriptlang.org/"><img width="30" src="https://github.com/xkawu/xkawu/blob/main/src/images/Typescript.png"></a>
 </details>
 	
 <details>
 	<summary>☕ • Languages [IN LEARNING]</summary>
-	<a title="Typescript" href="https://www.typescriptlang.org/"><img width="30" src="https://github.com/xkawu/xkawu/blob/main/src/images/Typescript.png"></a>
 	<a title="Rust" href="https://www.rust-lang.org/"><img width="30" src="https://raw.githubusercontent.com/LeVraiKawu/LeVraiKawu/main/src/images/Rust.png"></a>
 </details>
 

@@ -20,7 +20,7 @@
 	<a href="https://github.com/xkawu"><img src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/subcats/frameworks.png"></a>
 	<div>
 		<a title="React" href="https://reactjs.org/"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/subcats/items/frameworks/react.png"></a>
-		<a title="NextJS" href="https://nextjs.org/"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/subcats/items/frameworks/next.png"></a>
+		<a title="NextJS" href="https://nextjs.org/"><img width="110" height="" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/subcats/items/frameworks/next.png"></a>
 	</div>
  	<!-- --->
 	<br>

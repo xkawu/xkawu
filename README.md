@@ -11,6 +11,7 @@
 		<a title="Javascript" href="https://devdocs.io/javascript/"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/subcats/items/languages/js.png"></a>
 		<a title="Typescript" href="https://www.typescriptlang.org/"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/subcats/items/languages/ts.png"></a>
 		<a title="Rust" href="https://www.rust-lang.org/"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/subcats/items/languages/rust.png"></a>
+		<a title="Bash" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/subcats/items/languages/bash.png"></a>
 	</div>
 	<!-- --->
 	<br>

@@ -15,7 +15,7 @@
 </details>
 
 <details>
-	<summary>📦 • Frameworks & libraries</summary>
+	<summary>📦 • Frameworks</summary>
 	<a title="React" href="https://reactjs.org/"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/React.png"></a>
 	<a title="MongoDB" href="https://www.mongodb.com/"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/MongoDB.png"></a>
 	<a title="DateFNS" href="https://date-fns.org/"><img width="30" src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/DateFNS.png"></a>

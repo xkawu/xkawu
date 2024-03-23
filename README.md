@@ -1,4 +1,4 @@
-<a href="https://github.com/xkawu"><img src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/banner.png"></a>
+<a href="https://github.com/xkawu"><img src="https://raw.githubusercontent.com/xkawu/xkawu/main/src/images/banner_.png"></a>
 <!-- --->
 <br>
 <br>
